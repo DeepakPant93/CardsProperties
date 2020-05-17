@@ -1,0 +1,2 @@
+# CardsProperties
+Properties for Cards
